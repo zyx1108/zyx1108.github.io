@@ -15,9 +15,10 @@ title: Yixuan Zhao's Portfolio # This is what shows up in the tab of the browser
 name: Yixuan Zhao
 headline: Robotics Engineer — Perception, Planning & Reliable Autonomy
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Trained in Mechanical and Aerospace engineering, I develop robotics systems that pair principled modeling with practical autonomy. 
-  My work bridges perception, planning, and systems integration—moving from simulation to repeatable, on-hardware results. 
-  I emphasize clarity, safety, and maintainability so teams can iterate quickly and trust what runs in the field.
+  I studied Mechanical and Aerospace Engineering for my B.S. and Mechanical Engineering for my M.S. 
+  With that foundation, I build robotics solutions that respect real-world dynamics—taking sensor fusion, 
+  mapping, and motion planning from analysis and simulation to production-ready autonomy measured by coverage, 
+  efficiency, and operational safety.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -31,9 +32,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: test    # https://www.linkedin.com/in/yixuanzyx
+  github: leea12    # https://github.com/zyx1108
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
