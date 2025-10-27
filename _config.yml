@@ -13,11 +13,11 @@ title: Yixuan Zhao's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Yixuan Zhao
-headline: headline message
+headline: Robotics Engineer — Perception, Planning & Reliable Autonomy
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Trained in Mechanical and Aerospace engineering, I develop robotics systems that pair principled modeling with practical autonomy. 
+  My work bridges perception, planning, and systems integration—moving from simulation to repeatable, on-hardware results. 
+  I emphasize clarity, safety, and maintainability so teams can iterate quickly and trust what runs in the field.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
