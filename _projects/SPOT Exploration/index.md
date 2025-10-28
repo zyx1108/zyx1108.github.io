@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SPOT Semantic Exploration & Dense Mapping
+title: SPOT Semantic Exploration and Dense Mapping
 description:  End-to-end autonomy on Boston Dynamics Spot: panoramic LiDAR–camera mapping, semantic-aware planning, and safe-aggressive exploration validated in simulation and on hardware.
 skills: 
 - ROS / ROS2
