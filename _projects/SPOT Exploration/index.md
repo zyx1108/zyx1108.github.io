@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SPOT Semantic Exploration
+title: SPOT Semantic Exploration and Dense Mapping
 description:  autonomy
 skills: 
   - ROS
