@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SPOT Semantic Exploration and Dense Mapping
+title: Super Heavy Booster Catch (Demo Only)
 description:  End-to-end autonomy on Boston Dynamics Spot: panoramic LiDAR–camera mapping, semantic-aware planning, and safe-aggressive exploration validated in simulation and on hardware.
 skills: 
   - ROS / ROS2
