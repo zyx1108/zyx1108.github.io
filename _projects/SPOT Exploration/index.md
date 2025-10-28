@@ -3,14 +3,13 @@ layout: post
 title: SPOT Semantic Exploration & Dense Mapping
 description:  End-to-end autonomy on Boston Dynamics Spot: panoramic LiDAR–camera mapping, semantic-aware planning, and safe-aggressive exploration validated in simulation and on hardware.
 skills: 
-  - ROS, ROS2
-  - NVIDIA Isaac Sim, Omniverse
-  - LiDAR–camera fusion (calib, sync)
-  - TSDF, ESDF mapping
-  - PRM, A* (hierarchical)
-  - ATSP, TSP routing
-  - State machines (safety and recovery)
-  - Python, C++
+  - ROS
+  - NVIDIA Isaac Sim
+  - LiDAR–camera fusion
+  - PRM
+  - ATSP
+  - State machines
+  - Python
   
 
 main-image: /title.jpg
