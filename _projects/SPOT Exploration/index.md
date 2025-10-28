@@ -8,7 +8,6 @@ skills:
   - LiDAR–camera fusion (calib, sync)
   - TSDF / ESDF mapping 
   - ATSP / TSP routing
-  - PRM / A* (hierarchical)
   - State machines (safety / recovery)
   - Open3D / PCL / OpenCV
   - Python / C++
