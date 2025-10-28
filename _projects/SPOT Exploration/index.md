@@ -14,7 +14,7 @@ skills:
   - Python / C++
   
 
-main-image: /title.jpg
+main-image: /title.png
 ---
 
 ## Overview
