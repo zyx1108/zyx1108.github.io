@@ -6,11 +6,10 @@ skills:
   - ROS / ROS2
   - NVIDIA Isaac Sim / Omniverse
   - LiDAR–camera fusion (calib, sync)
-  - TSDF / ESDF mapping 
+  - TSDF / ESDF mapping
+  - PRM / A* (hierarchical)
   - ATSP / TSP routing
-  - State machines (safety / recovery)
-  - Open3D / PCL / OpenCV
-  - Python / C++
+  
 
 main-image: /title.jpg
 ---
