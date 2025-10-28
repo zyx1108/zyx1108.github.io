@@ -1,16 +1,17 @@
 ---
 layout: post
 title: SPOT Semantic Exploration & Dense Mapping
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+description:  End-to-end autonomy on Boston Dynamics Spot: panoramic LiDAR–camera mapping, semantic-aware planning, and safe-aggressive exploration validated in simulation and on hardware.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - ROS / ROS2
+  - NVIDIA Isaac Sim / Omniverse
+  - LiDAR–camera fusion (calib, sync)
+  - TSDF / ESDF mapping 
+  - ATSP / TSP routing
+  - PRM / A* (hierarchical)
+  - State machines (safety / recovery)
+  - Open3D / PCL / OpenCV
+  - Python / C++
 
 main-image: /title.jpg
 ---
